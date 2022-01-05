@@ -1,4 +1,5 @@
 Hello World!Strange world @ remote master.
+Hello World! World is beautiful @ local master.
 
 file update in bug1.
 file updated in master branch.
@@ -6,6 +7,6 @@ file updated in master branch.
 file update in bug1
 chnages in bug2.
 
-
 file updated for stash.
 CHange cc: file udated for bug3.
+file updated for WI7 to check local master merging. 
