@@ -5,3 +5,6 @@ file updated in master branch.
 
 file update in bug1
 chnages in bug2.
+
+
+file updated for stash.
