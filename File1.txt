@@ -2,3 +2,6 @@ Hello World!
 
 file update in bug1.
 file updated in master branch.
+
+file update in bug1
+chnages in bug2.
