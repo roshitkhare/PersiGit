@@ -1,4 +1,4 @@
-Hello World!
+Hello World!Strange world @ remote master.
 
 file update in bug1.
 file updated in master branch.
@@ -8,3 +8,4 @@ chnages in bug2.
 
 
 file updated for stash.
+CHange cc: file udated for bug3.
